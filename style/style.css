@@ -1,0 +1,10 @@
+body{
+    background-image: url(../images/bg-header-mobile.png);
+    background-repeat: no-repeat;
+    font-weight: 400;
+}
+@media (min-width: 720px) {
+    body{
+        background-image: url(../images/bg-header-desktop.png);
+    }
+  }
